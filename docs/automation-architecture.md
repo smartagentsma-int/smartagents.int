@@ -118,3 +118,9 @@ Documentation for each system includes:
 - [Automation Infrastructure](./automation-infrastructure.md)
 
 🌐 https://SmartAgents.ma
+
+---
+
+<!-- no content block -->
+
+_Last updated: mars 2026 — [SmartAgents International](https://smartagents.ma)_
