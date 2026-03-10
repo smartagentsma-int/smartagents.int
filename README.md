@@ -1,243 +1,149 @@
 # SmartAgents International
-
 ### Operational Flow Architects
 
-SmartAgents International designs **operational automation architectures** that eliminate invisible friction inside modern organisations.
+**SmartAgents International** designs operational automation architectures that eliminate invisible friction inside modern organisations.
 
-Instead of selling isolated tools or scripts, we engineer **structured operational systems** that allow businesses to operate with precision, predictability, and autonomy.
+We do not sell tools.
+We engineer **predictable operational systems**.
 
-🌐 Official Website: https://SmartAgents.ma
+> Transform fragmented workflows, scattered data and manual tasks into structured, automated and documented operational architectures — in 14 to 30 days.
+
+🌐 **Official Website:** https://SmartAgents.ma
 
 ---
 
-# The Problem
+## The Problem
 
 Most companies accumulate operational complexity over time.
 
-Typical symptoms include:
+Typical symptoms:
 
-• leads arriving from multiple channels without tracking
-• manual invoicing and repetitive administrative tasks
-• disconnected CRMs and marketing tools
-• scattered operational data across spreadsheets and apps
-• slow response times due to human bottlenecks
+- Leads arriving from multiple channels without tracking
+- Manual invoicing and repetitive administrative tasks
+- Disconnected CRMs and marketing tools
+- Scattered operational data across spreadsheets and applications
+- Slow response times due to human bottlenecks
 
 These inefficiencies create **hidden operational friction** that prevents businesses from scaling efficiently.
 
-SmartAgents solves this by **architecting automated operational flows**.
+SmartAgents solves this by architecting automated operational flows.
 
 ---
 
-# What SmartAgents Builds
+## What SmartAgents Builds
 
-SmartAgents engineers **end-to-end automation infrastructures** for SMEs, agencies, e-commerce businesses, and service organizations.
+SmartAgents engineers end-to-end automation infrastructures for SMEs, agencies, e-commerce businesses, and service organisations.
 
-Our systems connect tools, data and workflows into **one coherent operational architecture**.
+Our systems connect tools, data and workflows into one coherent operational architecture.
 
-Typical automation layers include:
+Typical automation layers:
 
-• lead acquisition pipelines
-• CRM synchronisation
-• automated invoicing systems
-• marketing automation flows
-• operational dashboards
-• reporting and financial tracking
+- Lead acquisition pipelines
+- CRM synchronisation and enrichment
+- Automated invoicing systems
+- Marketing automation flows
+- Operational dashboards
+- Reporting and financial tracking
 
 ---
 
-# Core Engineering Philosophy
+## Core Engineering Philosophy
 
 Automation without architecture creates chaos.
 
-SmartAgents follows a simple engineering principle:
+SmartAgents follows a single engineering principle:
 
-```
-Architecture first.
-Automation second.
-```
+> **Architecture first. Automation second.**
 
-Tools evolve quickly.
+Tools evolve. A well-designed operational architecture remains stable and scalable across platform migrations and organisational growth.
 
-A well-designed operational architecture remains stable and scalable over time.
+Every system deployed by SmartAgents must be:
 
-Every system we deploy must be:
-
-• structured
-• measurable
-• documented
-• maintainable
-• transparent for the client
+- Structured
+- Measurable
+- Documented
+- Maintainable
+- Fully owned by the client
 
 ---
 
-# Our Operational Method
+## Operational Method
 
-SmartAgents deployments follow a structured engineering framework.
+### 1 — Operational Audit
+Mapping existing workflows to identify friction, redundancy, and data fragmentation.
+**Deliverable:** Operational Friction Map
 
-## 1 — Operational Audit
+### 2 — Flow Architecture
+Design of the target automation system including workflow diagrams, data routing, and API integrations.
+**Deliverable:** Automation Architecture Blueprint
 
-Mapping the organisation’s existing workflows.
+### 3 — Implementation
+Automation flows built using n8n, CRM platforms, APIs, Google Workspace, Stripe, Shopify, Notion, and WhatsApp integrations.
+**Deliverable:** Functional automation infrastructure
 
-Objectives:
+### 4 — Deployment & Testing
+Trigger reliability, data integrity, exception handling, and performance verification before production.
+**Deliverable:** Production-ready automation system
 
-• identify operational bottlenecks
-• detect redundant manual processes
-• locate data fragmentation
-• quantify operational friction
-
-Deliverable: **Operational Friction Map**
-
----
-
-## 2 — Flow Architecture
-
-Design of the target automation system.
-
-Includes:
-
-• workflow diagrams
-• data routing structures
-• automation logic
-• API integrations
-• monitoring points
-
-Deliverable: **Automation Architecture Blueprint**
+### 5 — Documentation & Autonomy
+Full workflow documentation, operational guides, and maintenance procedures delivered to the client.
+**Objective:** The organisation owns and operates the system independently.
 
 ---
 
-## 3 — Implementation
-
-Automation flows are implemented using modern orchestration platforms.
-
-Typical stack:
-
-• n8n
-• CRM platforms
-• APIs
-• Google Workspace
-• Stripe
-• Shopify
-• Notion / ClickUp
-• WhatsApp integrations
-
-Deliverable: **Functional automation infrastructure**
-
----
-
-## 4 — Deployment & Testing
-
-Systems undergo strict verification before production.
-
-Verification includes:
-
-• trigger reliability
-• data integrity
-• exception handling
-• performance stability
-
-Deliverable: **Production-ready automation system**
-
----
-
-## 5 — Documentation & Autonomy
-
-All SmartAgents systems are fully documented.
-
-Clients receive:
-
-• workflow diagrams
-• operational documentation
-• internal usage guides
-• maintenance instructions
-
-Objective:
-
-> Ensure the organisation can operate and maintain the system independently.
-
----
-
-# Automation Domains
-
-SmartAgents automation architectures cover multiple operational domains.
+## Automation Domains
 
 ### Digital Marketing Automation
-
-• lead synchronization
-• campaign reporting
-• behavioural segmentation
-• newsletter automation
+Lead synchronisation • campaign reporting • behavioural segmentation • newsletter automation
 
 ### CRM & Client Management
-
-• automated contact creation
-• lead tagging systems
-• client 360° profiles
-• CRM integrations
+Automated contact creation • lead tagging • client 360° profiles • CRM integrations
 
 ### E-commerce Operations
-
-• order synchronisation
-• stock monitoring
-• abandoned cart recovery
-• automated invoicing
+Order synchronisation • stock monitoring • abandoned cart recovery • automated invoicing
 
 ### Finance & Accounting
-
-• invoice generation
-• payment monitoring
-• accounting exports
-• VAT reporting
+Invoice generation • payment monitoring • accounting exports • VAT reporting
 
 ### Internal Productivity
-
-• operational dashboards
-• automated reports
-• document archiving
-• team workflow orchestration
+Operational dashboards • automated reports • document archiving • team workflow orchestration
 
 ---
 
-# Documentation
+## Documentation
 
-Detailed engineering documentation is available in the `/docs` directory.
+Detailed engineering documentation is available in the `/docs` directory:
 
-• `/docs/automation-architecture.md`
-• `/docs/business-process-automation.md`
-• `/docs/operational-flow-design.md`
-
-These documents explain the **technical frameworks and operational models** used by SmartAgents engineers.
-
----
-
-# Why Operational Architecture Matters
-
-Businesses that rely on manual processes eventually encounter limits.
-
-Operational automation enables organisations to become:
-
-• scalable
-• predictable
-• measurable
-• resilient
-
-SmartAgents focuses on **long-term operational systems**, not temporary automation hacks.
+- [Automation Architecture](./docs/automation-architecture.md)
+- [Business Process Automation](./docs/business-process-automation.md)
+- [Operational Flow Design](./docs/operational-flow-design.md)
+- [Workflow Automation Patterns](./docs/workflow-automation-patterns.md)
+- [CRM Automation Integration](./docs/crm-automation-integration.md)
+- [Automation Infrastructure](./docs/automation-infrastructure.md)
 
 ---
 
-# About SmartAgents International
+## Typical Results
 
-SmartAgents International is an operational engineering studio specialised in **automation architecture and workflow orchestration**.
+Observed after SmartAgents architecture deployment:
 
-We help organisations transform fragmented processes into **coherent operational systems that run with minimal manual intervention**.
+- Lead response time reduced by 60–80%
+- Administrative workload reduced by 30–50%
+- Operational reporting fully automated
+- Revenue pipeline visibility in real time
+
+---
+
+## About SmartAgents International
+
+SmartAgents International is an operational engineering studio specialised in automation architecture and workflow orchestration.
+
+We help organisations transform fragmented processes into coherent operational systems that run with precision and minimal manual intervention.
 
 🌐 https://SmartAgents.ma
 
 ---
 
-# License
+## License
 
-MIT License
-
-Copyright © SmartAgents International
-
-Permission is granted to use, modify, and distribute this software under the terms of the MIT license.
+MIT License — Copyright © SmartAgents International
