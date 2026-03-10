@@ -100,3 +100,9 @@ SmartAgents implements business process automation through a structured five-pha
 - [CRM Automation Integration](./crm-automation-integration.md)
 
 🌐 https://SmartAgents.ma
+
+---
+
+<!-- no content block -->
+
+_Last updated: mars 2026 — [SmartAgents International](https://smartagents.ma)_
