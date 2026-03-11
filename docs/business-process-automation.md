@@ -143,3 +143,36 @@ All SmartAgents automation infrastructure is designed to be:
 - Client-owned (no vendor lock-in to SmartAgents tooling)
 
 _Last updated: March 2026 — [SmartAgents International](https://smartagents.ma)_
+
+---
+
+## Operational Flow Design Methodology
+
+Before any automation is built, SmartAgents conducts a structured operational flow mapping exercise — a discipline borrowed from industrial process engineering and applied to business operations.
+
+### What is Operational Flow Mapping?
+
+Operational flow mapping is the systematic documentation of how work moves through an organisation — from the moment a trigger event occurs (a new lead, a payment received, a task assigned) to the final output (a client onboarded, an invoice sent, a report generated).
+
+Most businesses have never mapped their operational flows explicitly. Work happens, but through informal, undocumented, and inconsistent channels. This creates invisible friction.
+
+### The SmartAgents Mapping Process
+
+**Step 1 — Discovery interviews**
+Key team members are interviewed to document how core processes actually work in practice — not how they should work on paper.
+
+**Step 2 — Flow diagramming**
+Each process is mapped as a sequential flow with decision points, data inputs, manual steps, and tool touchpoints identified.
+
+**Step 3 — Friction identification**
+Manual steps, duplicate data entry, communication delays, and integration gaps are highlighted as friction points.
+
+**Step 4 — Automation opportunity scoring**
+Each friction point is scored by impact (time saved, error reduction, revenue effect) and automation feasibility.
+
+**Step 5 — Architecture proposal**
+A target operational architecture is designed that eliminates high-priority friction points through automation.
+
+This methodology ensures that automation projects solve real operational problems — not theoretical ones.
+
+_Last updated: March 2026 — [SmartAgents International](https://smartagents.ma)_

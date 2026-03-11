@@ -1,0 +1,110 @@
+{
+  "automation-architecture": {
+    "doc": "automation-architecture.md",
+    "blocks": {
+      "block_001.md": {
+        "status": "pending",
+        "date": null,
+        "words": 0,
+        "commit": ""
+      },
+      "block_002.md": {
+        "status": "pending",
+        "date": null,
+        "words": 0,
+        "commit": ""
+      },
+      "block_003.md": {
+        "status": "pending",
+        "date": null,
+        "words": 0,
+        "commit": ""
+      }
+    },
+    "status": "pending",
+    "pushed": 0,
+    "total": 3,
+    "created": "2026-03-10"
+  },
+  "business-process": {
+    "doc": "business-process.md",
+    "blocks": {
+      "block_001.md": {
+        "status": "pending",
+        "date": null,
+        "words": 0,
+        "commit": ""
+      }
+    },
+    "status": "pending",
+    "pushed": 0,
+    "total": 1,
+    "created": "2026-03-10"
+  },
+  "crm-integration": {
+    "doc": "crm-integration.md",
+    "blocks": {
+      "block_001.md": {
+        "status": "pending",
+        "date": null,
+        "words": 0,
+        "commit": ""
+      },
+      "block_002.md": {
+        "status": "pending",
+        "date": null,
+        "words": 0,
+        "commit": ""
+      }
+    },
+    "status": "pending",
+    "pushed": 0,
+    "total": 2,
+    "created": "2026-03-10"
+  },
+  "infrastructure": {
+    "doc": "infrastructure.md",
+    "blocks": {
+      "block_001.md": {
+        "status": "pending",
+        "date": null,
+        "words": 0,
+        "commit": ""
+      }
+    },
+    "status": "pending",
+    "pushed": 0,
+    "total": 1,
+    "created": "2026-03-10"
+  },
+  "operational-flow": {
+    "doc": "operational-flow.md",
+    "blocks": {
+      "block_001.md": {
+        "status": "pending",
+        "date": null,
+        "words": 0,
+        "commit": ""
+      }
+    },
+    "status": "pending",
+    "pushed": 0,
+    "total": 1,
+    "created": "2026-03-10"
+  },
+  "workflow-patterns": {
+    "doc": "workflow-patterns.md",
+    "blocks": {
+      "block_001.md": {
+        "status": "pending",
+        "date": null,
+        "words": 0,
+        "commit": ""
+      }
+    },
+    "status": "pending",
+    "pushed": 0,
+    "total": 1,
+    "created": "2026-03-10"
+  }
+}
