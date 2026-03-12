@@ -235,3 +235,32 @@ Data from multiple sources is collected and combined before triggering the next 
 SmartAgents implements these orchestration patterns primarily using n8n as the core workflow engine, complemented by native API integrations and webhook infrastructure where platform-specific capabilities are required.
 
 _Last updated: March 2026 — [SmartAgents International](https://smartagents.ma)_
+
+---
+
+## Workflow Automation Orchestration Patterns
+
+Modern workflow automation requires more than connecting two tools via a simple integration. Complex business operations demand **orchestration** — the coordination of multiple systems, conditional logic, parallel processes, and error recovery across an entire workflow.
+
+### Core Orchestration Patterns Used by SmartAgents
+
+**Sequential flow pattern**
+Steps execute in strict order. Each step receives the output of the previous step as its input. Used for: invoice generation, client onboarding, order processing.
+
+**Parallel branch pattern**
+Multiple steps execute simultaneously after a trigger event. Results are merged before the next step. Used for: multi-channel notifications, simultaneous CRM + accounting updates, parallel approval workflows.
+
+**Conditional routing pattern**
+The workflow path is determined by data conditions at runtime. A lead with a score above 80 routes to immediate sales contact; below 80 routes to nurture sequence. Used for: lead routing, approval escalation, tiered response systems.
+
+**Wait and resume pattern**
+A workflow pauses execution until an external event occurs — a payment confirmed, a form completed, a specific date reached — then resumes automatically. Used for: payment follow-up, document collection, subscription renewals.
+
+**Aggregation pattern**
+Data from multiple sources is collected and combined before triggering the next step. Used for: consolidated reporting, multi-system dashboards, batch processing.
+
+### Platform Implementation
+
+SmartAgents implements these orchestration patterns primarily using n8n as the core workflow engine, complemented by native API integrations and webhook infrastructure where platform-specific capabilities are required.
+
+_Last updated: March 2026 — [SmartAgents International](https://smartagents.ma)_
