@@ -154,3 +154,23 @@ Data from multiple sources is collected and combined before triggering the next 
 SmartAgents implements these orchestration patterns primarily using n8n as the core workflow engine, complemented by native API integrations and webhook infrastructure where platform-specific capabilities are required.
 
 _Last updated: March 2026 — [SmartAgents International](https://smartagents.ma)_
+
+---
+
+## Automation Architecture Principles
+
+Reliable automation infrastructure begins with architectural clarity before tool selection.
+
+SmartAgents International follows a layered architecture model where every automation system is decomposed into three distinct layers: the trigger layer, the logic layer, and the output layer.
+
+The **trigger layer** defines the conditions that initiate an automation flow — whether a form submission, a webhook event, a scheduled time, or a database change. Trigger reliability is the most critical factor in automation stability.
+
+The **logic layer** contains the business rules, data transformations, and routing decisions. This layer must remain stateless where possible to ensure horizontal scalability and error recovery.
+
+The **output layer** handles the final delivery of data — whether writing to a CRM, sending a notification, generating an invoice, or updating a dashboard.
+
+This separation of concerns ensures that any component can be modified, replaced, or scaled without disrupting the entire system.
+
+> Architecture built this way remains stable across tool migrations, platform changes, and organisational growth.
+
+_Last updated: mars 2026 — [SmartAgents International](https://smartagents.ma)_
