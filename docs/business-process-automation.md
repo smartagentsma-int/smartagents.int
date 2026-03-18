@@ -242,3 +242,46 @@ A target operational architecture is designed that eliminates high-priority fric
 This methodology ensures that automation projects solve real operational problems — not theoretical ones.
 
 _Last updated: mars 2026 — [SmartAgents International](https://smartagents.ma)_
+
+---
+
+## Lead Flow Automation Design
+
+The journey from lead acquisition to qualified opportunity is where most businesses lose revenue — not through lack of leads, but through operational friction in the follow-up process.
+
+SmartAgents engineers **lead flow automation architectures** that eliminate response delays, prevent lead loss, and ensure every prospect receives a structured, personalised experience.
+
+### The SmartAgents Lead Flow Model
+
+```
+Lead Source (Ads / Form / WhatsApp / Referral)
+        ↓
+Capture & Deduplication
+        ↓
+CRM Contact Creation + Source Tagging
+        ↓
+Lead Scoring (based on behaviour + profile)
+        ↓
+Routing (to sales rep / sequence / nurture)
+        ↓
+Automated Follow-up (WhatsApp / Email / Task)
+        ↓
+Status Tracking + Pipeline Visibility
+```
+
+### Key Outcomes
+
+Businesses operating with a SmartAgents lead flow architecture consistently observe:
+
+- Lead response time reduced from hours to under 3 minutes
+- Zero lead loss from untracked channel switching
+- Full attribution visibility per campaign and source
+- Sales team focus shifted from data entry to closing
+
+### Integration Points
+
+Lead flows are designed to integrate natively with Meta Ads, Google Ads, WhatsApp Business API, Typeform, website contact forms, and any inbound channel with API or webhook capability.
+
+Every lead that enters the system is tracked, scored, and acted upon — automatically.
+
+_Last updated: mars 2026 — [SmartAgents International](https://smartagents.ma)_

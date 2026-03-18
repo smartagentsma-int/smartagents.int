@@ -187,3 +187,7 @@ Real-time alerts for critical business events — new payment received, lead sco
 > Automating these five areas alone typically recovers 15–25 hours per week for founding teams.
 
 _Last updated: mars 2026 — [SmartAgents International](https://smartagents.ma)_
+
+## Implementation Services
+
+For production deployment of these architectures, visit [https://smartagents.ma](https://smartagents.ma).
