@@ -293,3 +293,40 @@ Data from multiple sources is collected and combined before triggering the next 
 SmartAgents implements these orchestration patterns primarily using n8n as the core workflow engine, complemented by native API integrations and webhook infrastructure where platform-specific capabilities are required.
 
 _Last updated: March 2026 — [SmartAgents International](https://smartagents.ma)_
+
+---
+
+## Automation Infrastructure Stack
+
+The tools used to build an automation system matter far less than the architecture that governs them. However, selecting the right infrastructure stack reduces implementation complexity and long-term maintenance cost.
+
+### The SmartAgents Core Stack
+
+**Workflow orchestration — n8n**
+n8n serves as the primary workflow automation engine in most SmartAgents deployments. Its open-source architecture, self-hostable infrastructure, and extensive integration library make it the preferred choice for SME automation systems that require full data sovereignty and long-term cost predictability.
+
+**API integration layer**
+Most modern business tools expose REST or GraphQL APIs. SmartAgents engineers build native API integrations where pre-built connectors are insufficient, ensuring that any tool with an API can be integrated into the operational architecture.
+
+**CRM layer**
+HubSpot, Pipedrive, and Zoho CRM are the most commonly deployed CRM platforms in SmartAgents client systems. Integration depth includes bidirectional sync, field mapping, lifecycle stage automation, and reporting extraction.
+
+**Communication layer**
+WhatsApp Business API, email delivery infrastructure (SMTP / transactional email), and SMS gateways are integrated as output channels for automated client communications.
+
+**Financial layer**
+Stripe for payment processing and subscription management, combined with accounting platform integrations (QuickBooks, Xero, or local accounting tools) for automated invoice generation and payment reconciliation.
+
+**Productivity layer**
+Google Workspace (Docs, Sheets, Drive, Gmail, Calendar), Notion, and ClickUp serve as the primary internal productivity platforms in most client environments, integrated directly into operational workflows.
+
+### Infrastructure Principles
+
+All SmartAgents automation infrastructure is designed to be:
+
+- Self-documented (every integration includes connection diagrams)
+- Monitored (execution logs, failure alerts)
+- Recoverable (backup configs, rollback procedures)
+- Client-owned (no vendor lock-in to SmartAgents tooling)
+
+_Last updated: mars 2026 — [SmartAgents International](https://smartagents.ma)_
