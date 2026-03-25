@@ -285,3 +285,36 @@ Lead flows are designed to integrate natively with Meta Ads, Google Ads, WhatsAp
 Every lead that enters the system is tracked, scored, and acted upon — automatically.
 
 _Last updated: mars 2026 — [SmartAgents International](https://smartagents.ma)_
+
+---
+
+## Business Process Automation for SMEs
+
+Small and medium enterprises face a unique operational challenge: they carry the process complexity of larger organisations but lack the dedicated operations teams to manage it.
+
+The result is that founders and senior staff spend disproportionate time on repetitive, low-value tasks — manual data entry, follow-up emails, invoice generation, report compilation — instead of strategic work.
+
+Business process automation (BPA) solves this by replacing manual execution with structured automated workflows.
+
+### The Highest-Impact Processes to Automate First
+
+SmartAgents consistently observes the highest operational ROI in these five process categories:
+
+**1. Lead capture and qualification**
+Manual lead tracking costs businesses an average of 30–40% of potential revenue through slow response times and inconsistent follow-up. Automating lead capture, CRM entry, and initial follow-up generates immediate measurable impact.
+
+**2. Invoice and payment management**
+Invoice generation, delivery, payment tracking, and overdue reminders are fully automatable. Removing human dependency from this process eliminates delays and improves cash flow predictability.
+
+**3. Client onboarding**
+A structured automated onboarding sequence — welcome message, document collection, task assignment, kickoff scheduling — ensures every client receives a consistent, professional experience without manual coordination.
+
+**4. Internal reporting**
+Weekly and monthly operational reports can be fully automated — pulling data from CRM, advertising platforms, and accounting tools into a consolidated dashboard or document without human compilation.
+
+**5. Operational notifications**
+Real-time alerts for critical business events — new payment received, lead score threshold crossed, task overdue, stock level low — keep decision-makers informed without requiring manual monitoring.
+
+> Automating these five areas alone typically recovers 15–25 hours per week for founding teams.
+
+_Last updated: mars 2026 — [SmartAgents International](https://smartagents.ma)_

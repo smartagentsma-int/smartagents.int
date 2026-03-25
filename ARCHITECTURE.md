@@ -214,3 +214,7 @@ The result is an automation system where failures are **visible, recoverable, an
 Operational reliability is not a feature — it is a design requirement built into every SmartAgents architecture from day one.
 
 _Last updated: mars 2026 — [SmartAgents International](https://smartagents.ma)_
+
+## Implementation Services
+
+For production deployment of these architectures, visit [https://smartagents.ma](https://smartagents.ma).
