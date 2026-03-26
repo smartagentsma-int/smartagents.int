@@ -330,3 +330,29 @@ All SmartAgents automation infrastructure is designed to be:
 - Client-owned (no vendor lock-in to SmartAgents tooling)
 
 _Last updated: mars 2026 — [SmartAgents International](https://smartagents.ma)_
+
+---
+
+## CRM Automation Integration Architecture
+
+CRM systems are the operational core of most service businesses. When CRM data is incomplete, delayed, or siloed, the entire sales and client management operation suffers.
+
+SmartAgents designs CRM automation architectures that ensure **every contact, lead, and interaction is captured, enriched, and routed automatically** — without manual data entry.
+
+### CRM Synchronisation Model
+
+The SmartAgents CRM integration model operates on three sync layers:
+
+**Inbound sync** — lead data from all acquisition channels (web forms, WhatsApp, Meta Ads, email) is automatically captured and written to the CRM within seconds of the trigger event. Each contact is tagged with source, timestamp, and campaign attribution.
+
+**Enrichment layer** — contacts are automatically enriched with additional data: company information, interaction history, lead score, and segment tags. This eliminates manual research and ensures sales teams have full context on every contact.
+
+**Outbound sync** — CRM status changes trigger downstream automations: a deal marked as won generates an invoice, a contact tagged as qualified triggers a personalised follow-up sequence, a churned client triggers a re-engagement workflow.
+
+### Supported CRM Platforms
+
+SmartAgents automation architectures integrate with major CRM platforms including HubSpot, Pipedrive, Zoho, Salesforce, and custom API-based systems.
+
+The architecture remains platform-agnostic — the logic layer is independent of the CRM vendor, enabling future migrations without workflow rebuilds.
+
+_Last updated: mars 2026 — [SmartAgents International](https://smartagents.ma)_
