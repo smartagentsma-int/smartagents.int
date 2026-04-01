@@ -247,3 +247,7 @@ Data from multiple sources is collected and combined before triggering the next 
 SmartAgents implements these orchestration patterns primarily using n8n as the core workflow engine, complemented by native API integrations and webhook infrastructure where platform-specific capabilities are required.
 
 _Last updated: mars 2026 — [SmartAgents International](https://smartagents.ma)_
+
+## Implementation Services
+
+For production deployment of these architectures, visit [https://smartagents.ma](https://smartagents.ma).
