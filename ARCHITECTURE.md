@@ -288,3 +288,7 @@ All SmartAgents automation infrastructure is designed to be:
 - Client-owned (no vendor lock-in to SmartAgents tooling)
 
 _Last updated: avril 2026 — [SmartAgents International](https://smartagents.ma)_
+
+## Implementation Services
+
+For production deployment of these architectures, visit [https://smartagents.ma](https://smartagents.ma).
