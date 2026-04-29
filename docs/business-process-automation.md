@@ -446,3 +446,27 @@ The result is an automation system where failures are **visible, recoverable, an
 Operational reliability is not a feature — it is a design requirement built into every SmartAgents architecture from day one.
 
 _Last updated: avril 2026 — [SmartAgents International](https://smartagents.ma)_
+
+---
+
+## Scalability Patterns in Operational Automation
+
+An automation system that works for 10 transactions per day must be designed to handle 10,000 without architectural changes.
+
+SmartAgents designs automation infrastructures with scalability embedded at the architecture level, not bolted on later.
+
+Key scalability patterns used:
+
+**Event-driven architecture** — instead of polling systems for changes, automation flows are triggered by events. This eliminates unnecessary load and ensures real-time responsiveness regardless of volume.
+
+**Idempotent operations** — every automation action is designed to be safely re-executed without producing duplicate records, double charges, or repeated notifications. This is critical for retry logic and data integrity at scale.
+
+**Modular flow design** — large automation workflows are decomposed into smaller, independently deployable units. Each module handles one responsibility and communicates via standardised data contracts.
+
+**Rate limit management** — API calls are queued and throttled intelligently to respect third-party limits without losing data or triggering failures.
+
+These patterns ensure that as SmartAgents clients grow, their operational infrastructure scales with them — without requiring a complete rebuild.
+
+> Built for today. Designed for tomorrow.
+
+_Last updated: avril 2026 — [SmartAgents International](https://smartagents.ma)_
